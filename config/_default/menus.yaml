@@ -1,0 +1,39 @@
+leftnav:
+- identifier: 9545cabd-271d-5f68-7895-41f8f649217a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 468d5b04-1b49-5038-b27d-a5570dd7e2bc
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: b2c48e80-8fb2-92a3-ed8e-3f558bbdc79a
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 1837dde2-f4c9-ab07-3ee5-742c2ecaffa2
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 79eb2273-7a39-6156-382c-dce20b0c04b6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: dbecca52-01f3-8413-20b1-fda5e6c91ec5
+  name: Final Project
+  pageRef: /pages/final-project/
+  weight: 60
+- identifier: 99a4e4a0-d2f7-3d06-dbcb-cfd2d07e14c5
+  name: Controlling Epidemics on Networks
+  pageRef: /pages/final-project/controlling-epidemics-on-networks
+  parent: dbecca52-01f3-8413-20b1-fda5e6c91ec5
+  weight: 70
+- identifier: bc823579-a0b2-aa50-9d9e-e51d494a569d
+  name: Proposing Your Own Application of Interest
+  pageRef: /pages/final-project/proposing-your-own-application-of-interest
+  parent: dbecca52-01f3-8413-20b1-fda5e6c91ec5
+  weight: 80
+- identifier: 3c7c31f1-b722-eb35-9611-72366b87270a
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 90
