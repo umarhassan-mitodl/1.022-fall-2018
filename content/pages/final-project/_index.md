@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This course contains information for the course final project.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

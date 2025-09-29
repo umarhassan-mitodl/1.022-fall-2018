@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-022-introduction-to-network-models-fall-2018/7693ccd6486dfc155456f407b691e0b1_MIT1_022F18_ProjectEpidemics.pdf
 file_size: 298196
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
