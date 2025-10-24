@@ -23,7 +23,6 @@
     "website": "1-022-introduction-to-network-models-fall-2018"
   },
   "course_title": "Introduction to Network Models",
-  "hide_download": true,
   "course_description": "This course provides an introduction to complex networks and their structure and function, with examples from engineering, applied mathematics, and social sciences. Topics include spectral graph theory, notions of centrality, random graph models, contagion phenomena, cascades and diffusion, and opinion dynamics.\n",
   "department_numbers": [
     "1"
@@ -34,7 +33,6 @@
     "content": "00a54dd2-18a4-0446-4e31-ed1ab7d38def",
     "website": "1-022-introduction-to-network-models-fall-2018"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

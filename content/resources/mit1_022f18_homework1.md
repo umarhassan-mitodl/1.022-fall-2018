@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-022-introduction-to-network-models-fall-2018/a27f118062b7377d50030d544256f3ea_MIT1_022F18_Homework1.pdf
 file_size: 240858
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
