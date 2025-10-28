@@ -10,13 +10,13 @@ video_metadata:
   youtube_id: null
 ---
 
-\[E\] = Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_. Cambridge University Press, 2010. ISBN: 9780521195331. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[E\] = Easley, David, and Jon Kleinberg. _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_. Cambridge University Press, 2010. ISBN: 9780521195331. \[Preview with {{% resource_link "724dfe35-0f78-4567-9cd5-4799b4f6d6a0" "Google Books" %}}\]
 
-Note: An [online version](https://www.cs.cornell.edu/home/kleinber/networks-book/) of the above textbook is freely available on Jon Kleinberg's homepage on Cornell University's Department of Computer Science website.
+Note: An {{% resource_link "d5a30c49-4356-4dfc-afcf-e9c3cc8d7757" "online version" %}} of the above textbook is freely available on Jon Kleinberg's homepage on Cornell University's Department of Computer Science website.
 
 \[J\] = Jackson, Matthew O. _Social and Economic Networks_. Princeton University Press, 2010. ISBN: 9780691148205.
 
-\[N\] = Newman, M.E.J. _Networks: An Introduction_. Oxford University Press, 2010. ISBN: 9780199206650. \[Preview with [Google Books](https://books.google.com/books?id=LrFaU4XCsUoC&pg=PAfrontcover#v=onepage&q&f=false)\]
+\[N\] = Newman, M.E.J. _Networks: An Introduction_. Oxford University Press, 2010. ISBN: 9780199206650. \[Preview with {{% resource_link "b892063d-e638-4367-8059-58c83e9bb77a" "Google Books" %}}\]
 
 \[S\] = Shah, Devavrat. _Gossip Algorithms_. Now Publishers Inc., 2009. ISBN: 9781601982360.
 
@@ -46,9 +46,9 @@ Course specifics, motivation, and intro to graph theory
 {{< tdopen >}}
 
 
-\[E\] Chapter 1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA1=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 1. \[Preview with {{% resource_link "e39e8e18-ccbe-4506-8aca-77e009a232f6" "Google Books" %}}\]
 
-\[E\] Chapter 2.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA21=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 2.1. \[Preview with {{% resource_link "780af441-cf21-4de6-85d1-f8ed9d963fd9" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -64,9 +64,9 @@ Introduction to graph theory
 {{< tdopen >}}
 
 
-\[E\] Chapter 2.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA23=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 2.2. \[Preview with {{% resource_link "bf39d5fa-3791-4d71-9050-a36e32b1ca1c" "Google Books" %}}\]
 
-\[E\] Chapter 2.3. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA29=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 2.3. \[Preview with {{% resource_link "54340ac1-ac59-4eb9-9809-6208976d7d5f" "Google Books" %}}\]
 
 \[N\] Chapter 6.1–6.4, 6.7, and 6.9.
 
@@ -84,13 +84,13 @@ Strong and weak ties, triadic closure, and homophily
 {{< tdopen >}}
 
 
-\[E\] Chapter 3.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA44=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 3.1. \[Preview with {{% resource_link "f2090736-1d7d-4ab3-8015-e9cc60971a5f" "Google Books" %}}\]
 
-\[E\] Chapter 3.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA46=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 3.2. \[Preview with {{% resource_link "567e8ee6-a832-42ea-afa3-3be288af7f94" "Google Books" %}}\]
 
-\[E\] Chapter 3.3. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA51=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 3.3. \[Preview with {{% resource_link "a46cf4f1-577b-4990-8a56-f2d1eb7279e6" "Google Books" %}}\]
 
-\[E\] Chapter 4.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA77=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 4.1. \[Preview with {{% resource_link "cefa4ea6-0b5c-41e0-8868-376589132380" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -122,9 +122,9 @@ Centrality and web search, spectral graph theory
 {{< tdopen >}}
 
 
-\[E\] Chapter 14.1. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA351=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 14.1. \[Preview with {{% resource_link "5b007496-ada7-4801-887a-7fd78a7bf4ab" "Google Books" %}}\]
 
-\[E\] Chapter 14.2. \[Preview with [Google Books](https://books.google.com/books?id=atfCl2agdi8C&pg=PA353=onepage#v=onepage&q&f=false)\]
+\[E\] Chapter 14.2. \[Preview with {{% resource_link "f6150989-7d85-4571-915a-b70f05490db8" "Google Books" %}}\]
 
 \[E\] Chapter 14.3. 
 
@@ -146,7 +146,7 @@ Spectral graph theory, spectral clustering, and community detection
 
 \[N\] Chapter 11.5. 
 
-Spielman, Daniel. [Chapter 16: Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf). Yale University, 2007.
+Spielman, Daniel. {{% resource_link "b74d0eae-2c45-4dab-a7f1-bfa3c120fcf4" "Chapter 16: Spectral Graph Theory (PDF)" %}}. Yale University, 2007.
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ Configuration model and small-world graphs
 
 \[J\] Chapter 4.1.4.
 
-\[J\] Chapter 4.2.1. \[Preview with [Google Books](https://books.google.com/books?id=bJbuD2XH1_oC&pg=PA86=onepage#v=onepage&q&f=false)\]
+\[J\] Chapter 4.2.1. \[Preview with {{% resource_link "7e48b54f-2e45-4359-b4ea-b52cffbaf398" "Google Books" %}}\]
 
 \[J\] Chapter 4.2.6. 
 
@@ -254,13 +254,13 @@ Information spread and distributed computation
 {{< tdopen >}}
 
 
-\[S\] Chapter 2.1. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA9=onepage#v=onepage&q&f=false)\]
+\[S\] Chapter 2.1. \[Preview with {{% resource_link "5168cfdf-aae6-4b1d-87fd-8519c2c5f427" "Google Books" %}}\]
 
-\[S\] Chapter 2.2. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA11=onepage#v=onepage&q&f=false)\]
+\[S\] Chapter 2.2. \[Preview with {{% resource_link "9cb48ab1-e809-4be3-8a94-d347b4c3c033" "Google Books" %}}\]
 
-\[S\] Chapter 3.1. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA21=onepage#v=onepage&q&f=false)\]
+\[S\] Chapter 3.1. \[Preview with {{% resource_link "ab485603-a8d6-4267-970a-85c553239ed8" "Google Books" %}}\]
 
-\[S\] Chapter 3.2. \[Preview with [Google Books](https://books.google.com/books?id=EVBoyrxHp_wC&pg=PA22=onepage#v=onepage&q&f=false)\]
+\[S\] Chapter 3.2. \[Preview with {{% resource_link "67f24aae-d472-4d58-bdaf-f272fe99fd2e" "Google Books" %}}\]
 
 \[S\] Chapter 5.1–5.2. 
 

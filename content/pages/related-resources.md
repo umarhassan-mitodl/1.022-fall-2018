@@ -38,7 +38,7 @@ TOPICS
 2 
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Algebra Review and Reference (PDF)](http://cs229.stanford.edu/section/cs229-linalg.pdf) by Zico Kolter (updated by Chuong Do)
+{{% resource_link "f7d1706a-b51a-429a-8301-1a3e211f36c2" "Linear Algebra Review and Reference (PDF)" %}} by Zico Kolter (updated by Chuong Do)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Spectral Graph Theory (PDF)](http://www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf) by Daniel Spielman
+{{% resource_link "b74d0eae-2c45-4dab-a7f1-bfa3c120fcf4" "Spectral Graph Theory (PDF)" %}} by Daniel Spielman
 {{< tdclose >}}
 
 {{< trclose >}}
